@@ -7,4 +7,3 @@ print({}.class)
     'eu' => 'euro'
 }
 
-
